@@ -11,6 +11,8 @@ The survey was conducted using Qualtrics and is no longer open for responses. Fo
 
 > *Note: This is a view-only version for reference purposes. No responses can be submitted.*
 
+You can check survey report in Statistics.pdf.
+
 ## Citation
 
 If referencing this survey in academic work, please cite:
